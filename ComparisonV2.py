@@ -7,7 +7,6 @@ X = dataset.iloc[:, :-2].values
 # X.shape
 y = dataset.iloc[:, -2].values
 # dataset['Location']=
-
 print('\n Displaying DataSets for X \n', X)
 print('\n Displaying DataSets for y \n', y)
 # dataset.shape
